@@ -1,0 +1,67 @@
+#1.
+	1. shitlist
+oklart vad som pågår
+svårt att se vad som händer när
+svårt att se vilket mode man är i
+svårt att lägga till modes
+krångligt att ändra filnamn som ska läsas
+onödigt mycket skit som definieras i början, mycket kan göras lokalt
+
+	2. what can be improved
+dela upp chunks i funktioner
+	-borde göra det lättare att se sekvens
+	-gör det lättare att se vad som bara ska vara sekvensfunktioner
+	 och vad som kan vara returnerande funktioner
+göra en tydlig del högst upp där man ställer in det som man kan tänkas vilja ändra
+
+
+#2.
+	1. define moscow
+		a: must-, should-, could-, would have
+måste göra det lättare att se i vilken ordning saker händer
+borde göra så att inaktiva delar inte används i onödan
+kunde göra snygga returnerande funktioner
+måste göra det lättare att ändra inställningar
+
+	2. check:
+		a: what are the quick wins?
+strukturera
+lättare att använda inställningar
+
+		b: what is more difficult?
+returnerande funktioner
+dela upp i klasser
+
+		c: what is most important
+struktur
+
+		d: what can be done later?
+inställningar
+
+	3. keep must-haves and quick wins
+	4. remove everything that is not quick win / must have
+
+
+#3. sandboxing/deadline
+	1. Define sandboxes
+		a: How much time do you have?
+all tid jag vill
+		b: What will you do when in how much time?
+först det lätta, sen det svåra
+		c: When is the cut-off point?
+när det känns lätt att lägga till nya grejer utan att trassla till det hela ännu mer
+
+
+#4. backup current
+	1. Save the current version so you can restore it
+
+
+#5. Refactor
+	1. Start refactoring
+	2. Do you still have time?
+		a: yes: continue
+		b: no: abort?
+		c: does it work / compile?
+	3. Out of time
+		a: broken? roll back old version
+		b: working? check in refactored code
