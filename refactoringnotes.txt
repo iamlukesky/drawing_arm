@@ -14,7 +14,7 @@ dela upp chunks i funktioner
 	 och vad som kan vara returnerande funktioner
 göra en tydlig del högst upp där man ställer in det som man kan tänkas vilja ändra
 
-
+_____________________________________
 #2.
 	1. define moscow
 		a: must-, should-, could-, would have
@@ -41,7 +41,7 @@ inställningar
 	3. keep must-haves and quick wins
 	4. remove everything that is not quick win / must have
 
-
+_________________________________________
 #3. sandboxing/deadline
 	1. Define sandboxes
 		a: How much time do you have?
@@ -51,11 +51,11 @@ först det lätta, sen det svåra
 		c: When is the cut-off point?
 när det känns lätt att lägga till nya grejer utan att trassla till det hela ännu mer
 
-
+______________________________________
 #4. backup current
 	1. Save the current version so you can restore it
 
-
+___________________________________
 #5. Refactor
 	1. Start refactoring
 	2. Do you still have time?
